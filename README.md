@@ -25,8 +25,8 @@
   <a href="https://www.linkedin.com/in/sivakumar-yenda-1587a7141/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="siva linkedin" height="30" width="40" /></a>
-  <a href="https://github.com/yendasivakumar" target="blank"><img align="center"
-      src="https://www.facebook.com/siva.yenda.90"
+  <a href="https://www.facebook.com/siva.yenda.90" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="siva github" height="30" width="40" /></a>
   <a href="https://www.instagram.com/sivayenda/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
