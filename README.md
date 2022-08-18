@@ -24,7 +24,7 @@
 
 <br>
   <h3>My Skills</h3>
-  <img aling="left" src="https://skillicons.dev/icons?i=java,spring,hibernate,sql,bootstrap,js,html,css," alt="My Skills"/>
+  <img aling="left" src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,bootstrap,js,html,css," alt="My Skills"/>
   <hr width="50%"/>
 
 
