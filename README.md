@@ -20,24 +20,6 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sivakumar-yenda-1587a7141/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="siva linkedin" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/siva.yenda.90" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="siva github" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/sivayenda/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="siva_instagram" height="30" width="40" /></a>
- <a href="https://twitter.com/itssivay" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="sivakumar" height="30" width="40" /></a>
-</p>
-
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -77,6 +59,19 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yendasivakumar&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+
+<div align="center">
+<h3>Connect with me 🙋🏻</h3>
+<a href="https://www.linkedin.com/in/sivakumar-yenda-1587a7141/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin">
+</a>
+<a href="https://twitter.com/itssivay">
+  <img src="https://skillicons.dev/icons?i=twitter">
+</a>
+<a href="https://www.instagram.com/sivayenda/">
+  <img src="https://skillicons.dev/icons?i=instagram">
+</a>
+</div>
 
 
 <div align="center">
