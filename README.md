@@ -79,4 +79,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yendasivakumar&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
 
 
+<div align="center">
+  <h3>If you've come this far, then you've probably liked my profile, and here's a random joke for you XD.</h3>
+  <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
+</div>
+<p align="center">
+  <code>Refresh the page for a new joke</code>
+</p>
+
+
 [yendasivakumar](https://github.com/yendasivakumar)
