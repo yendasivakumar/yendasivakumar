@@ -18,7 +18,7 @@
 - ⚡ Fun fact :- Food and Food🍜 are the reasons to live.
 
 <br>
-<a src"https://sivakumar-portfolio.netlify.app/">My Portfolio</a>
+<a href="https://sivakumar-portfolio.netlify.app/">My Portfolio</a>
 
 <br>
 
