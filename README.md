@@ -2,8 +2,6 @@
 <h3 align="center">Aspiring Java Backend Dev</h3>
 
 <br>
-
-
 <h3 align="center">Srikakulam, Andhrapradesh</h3>
 
 
