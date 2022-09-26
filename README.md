@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siva</h1>
-<h3 align="center">Aspiring Java Backend Dev</h3>
+<h3 align="center">A headstrong and inquisitive aspiring Back-End Developer. Highly skilled in developing robust, scalable applications and web API designs using java and spring boot.
+
+</h3>
 
 <br>
 <h3 align="center">Srikakulam, Andhrapradesh</h3>
