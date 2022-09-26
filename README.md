@@ -61,6 +61,9 @@
     <a title="sivakumaryenda@gmail.com" href="mailto:sivakumaryenda@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sivakumaryenda@gmail.com" />
     </a>
+    <a title="sivayenda" href="https://www.instagram.com/sivayenda/">
+        <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sivayenda" />
+    </a>
 </p>
 <br>
 <a href="https://sivakumar-portfolio.netlify.app/">My Portfolio</a>
@@ -84,18 +87,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yendasivakumar&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
 
-<div align="center">
-<h3>Connect with me 🙋🏻</h3>
-<a href="https://www.linkedin.com/in/sivakumar-yenda-1587a7141/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin">
-</a>
-<a href="https://twitter.com/itssivay">
-  <img src="https://skillicons.dev/icons?i=twitter">
-</a>
-<a href="https://www.instagram.com/sivayenda/">
-  <img src="https://skillicons.dev/icons?i=instagram">
-</a>
-</div>
 
 
 <div align="center">
