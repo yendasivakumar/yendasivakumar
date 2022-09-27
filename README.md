@@ -83,7 +83,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yendasivakumar&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
 
-![snake gif](https://github.com/yendasivakumar/yendasivakumar/blob/output/github-contribution-grid-snake.gif)
+### ⚙️ &nbsp;GitHub Analytics
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=yendasivakumar&theme=react-dark&hide_border=false&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/yendasivakumar)
 
 
 <div align="center">
