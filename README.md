@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **sivakumaryenda@gmail.com**
 
+- 🎓 Know about experiences   <a href="https://drive.google.com/file/d/1oh1o53tqNR7b_WiOURaNTWYFzolcfXiM/view?usp=sharing">Resume</a>
+
 - ⚡ Fun fact :- Food and Food🍜 are the reasons to live.
 
 
