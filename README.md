@@ -61,9 +61,7 @@
     <a title="sivakumaryenda@gmail.com" href="mailto:sivakumaryenda@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sivakumaryenda@gmail.com" />
     </a>
-    <a title="sivayenda" href="https://www.instagram.com/sivayenda/">
-        <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sivayenda" />
-    </a>
+  
 </p>
 
 <br>
